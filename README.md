@@ -20,3 +20,6 @@ Gelişmiş Kullanıcı Arayüzü: Kullanıcı deneyimini artırmak için kullan�
 Kurulum ve Kullanım Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
 
 Projeyi Kopyalayın: GitHub üzerinden projeyi klonlayın. git clone https://github.com/kullanici_adi/unity-2d-puzzle.git Unity ile Açın: Unity Hub veya Unity Editor ile projeyi açın. Sahneyi Çalıştırın: Scenes klasöründeki ana sahneyi çalıştırarak oyunu test edin.
+https://github.com/retlaanesrun/unity-2d-puzzle/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-05-27%20110843.png
+https://github.com/retlaanesrun/unity-2d-puzzle/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-05-27%20110908.png
+https://github.com/retlaanesrun/unity-2d-puzzle/blob/main/Ads%C4%B1z%20tasar%C4%B1m%20(1).png
