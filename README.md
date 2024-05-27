@@ -1,4 +1,4 @@
-Unity 2D Puzzle İlerletmek üzere başlamış olduğum yapboz oyunu.
+**Unity 2D Puzzle İlerletmek üzere başlamış olduğum yapboz oyunu.
 
 Proje Açıklaması:
 Yapbozumun amacı çalışanların dikkat,hafıza ve işlem yeteneklerini ölçmektir.
