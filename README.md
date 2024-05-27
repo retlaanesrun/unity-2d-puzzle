@@ -35,7 +35,4 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 
 Bu adımları takip ederek projeyi yerel ortamınızda çalıştırabilir ve geliştirmeye devam edebilirsiniz.
 
-![Ekran görüntüsü 2024-05-27 110843](https://github.com/retlaanesrun/unity-2d-puzzle/assets/122984044/79eb0357-a0cb-4403-a0bf-85e4bfa80293)
-![Ekran görüntüsü 2024-05-27 110908](https://github.com/retlaanesrun/unity-2d-puzzle/assets/122984044/e5
-![Adsız tasarım (1)](https://github.com/retlaanesrun/unity-2d-puzzle/assets/122984044/0f2859c0-5dfd-46cb-80c2-fe74f9abdf2c)
-f91527-3bd7-4734-a9f2-54fd2d4daa08)
+
