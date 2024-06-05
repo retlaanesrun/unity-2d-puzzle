@@ -34,5 +34,6 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
    `Scenes` klasöründeki ana sahneyi çalıştırarak oyunu test edin.
 
 Bu adımları takip ederek projeyi yerel ortamınızda çalıştırabilir ve geliştirmeye devam edebilirsiniz.
-
-
+![Ekran görüntüsü 2024-06-05 182144](https://github.com/retlaanesrun/unity-2d-puzzle/assets/122984044/ba173c9b-3b90-44f2-b0fc-d821093b87da)
+![Ekran görüntüsü 2024-06-05 182211](https://github.com/retlaanesrun/unity-2d-puzzle/assets/122984044/2cf2f9a8-e2af-48bd-9a8e-daf1cf06a8eb)
+![Ekran görüntüsü 2024-06-05 182309](https://github.com/retlaanesrun/unity-2d-puzzle/assets/122984044/ed836823-699f-4522-80a2-4b4e4511a84c)
